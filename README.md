@@ -23,4 +23,3 @@ Each scenario can be downloaded from Google Drive using the links below.
 | Version | Description | Release date |
 |---|---|---|
 | v1.0 | Initial release with four outdoor scenarios | TBD |
-| v1.1 | Additional scenarios | TBD |
