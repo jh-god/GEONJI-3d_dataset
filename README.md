@@ -9,7 +9,7 @@ GUNJI-3D is a multimodal dataset collected mainly in the Gunji Mountain Research
 ## GUNJI-3D DATASET
 - Scenario 1 (link)
   Bagfile name : record_outdoor3
-  Bag size : 20.1 GiB  
+  Bag size : 20.1 GiB
   Duration : 362.7s 
 - Scenario 2 (link) 
   Bagfile name : record_outdoor4
