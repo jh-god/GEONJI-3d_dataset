@@ -15,3 +15,12 @@ Each scenario can be downloaded from Google Drive using the links below.
 | Scenario 2 | [link](https://example.com) | `record_outdoor4` | 7.9 GiB | 144.0 s |
 | Scenario 3 | [link](https://example.com) | `record_outdoor5` | 15.4 GiB | 280.1 s |
 | Scenario 4 | [link](https://example.com) | `record_outdoor6` | 6.2 GiB | 112.5 s |
+
+---
+
+## Version History
+
+| Version | Description | Release date |
+|---|---|---|
+| v1.0 | Initial release with four outdoor scenarios | TBD |
+| v1.1 | Additional scenarios | TBD |
