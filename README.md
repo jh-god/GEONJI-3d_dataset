@@ -7,6 +7,7 @@ GUNJI-3D is a multimodal dataset collected mainly in the Gunji Mountain Research
 - ROS2 Humble
 
 ## GUNJI-3D DATASET
+Each scenario can be downloaded from Google Drive using the links below.
 
 | Scenario | Link | Bagfile name | Bag size | Duration |
 |---|---|---|---:|---:|
