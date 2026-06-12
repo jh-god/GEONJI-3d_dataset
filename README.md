@@ -1,1 +1,1 @@
-# GUNJI-3d_dataset
+# GUNJI-3d: A Multimodal Dataset for 3D Perception in Unstructured Outdoor Environments
