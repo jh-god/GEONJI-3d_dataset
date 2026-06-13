@@ -9,12 +9,12 @@ GUNJI-3D is a multimodal dataset collected mainly in the Gunji Mountain Research
 ## GUNJI-3D DATASET
 Each scenario can be downloaded from Google Drive using the links below.
 
-| Scenario | Link | Bagfile name | Bag size | Duration |
+| Scenario | Download | Bagfile name | Bag size | Duration |
 |---|---|---|---:|---:|
-| Scenario 1 | [link](https://example.com) | `record_outdoor3` | 20.1 GiB | 362.707162240s |
-| Scenario 2 | [link](https://example.com) | `record_outdoor4` | 7.9 GiB | 144.0 s |
-| Scenario 3 | [link](https://example.com) | `record_outdoor5` | 15.4 GiB | 280.1 s |
-| Scenario 4 | [link](https://example.com) | `record_outdoor6` | 6.2 GiB | 112.5 s |
+| Scenario 1 | [Download](https://drive.google.com/file/d/1fU5AJSGb6xqYmpwvg83eah2-NSrAm4nN/view?usp=sharing) | `record_outdoor3` | 20.1 GiB | 362.7s |
+| Scenario 2 | [Download](https://example.com) | `record_outdoor4` | 7.9 GiB | 144.0 s |
+| Scenario 3 | [Download](https://example.com) | `record_outdoor5` | 15.4 GiB | 280.1 s |
+| Scenario 4 | [Download](https://example.com) | `record_outdoor6` | 6.2 GiB | 112.5 s |
 
 ---
 
