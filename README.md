@@ -70,7 +70,7 @@ Each scenario can be downloaded from Google Drive using the links below.
   </tbody>
 </table>
 
-Both scenarios contain dynamic obstacles such as pedestrians. The recorded start times are 2026-08-27 06:34:13 KST for `outdoor1` and 2026-08-27 06:41:21 KST for `outdoor2`.
+Both scenarios contain dynamic obstacles such as pedestrians.
 
 ## Data statistics
 
