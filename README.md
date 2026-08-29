@@ -85,20 +85,20 @@ The sensor rates below are nominal configuration rates. Message counts are the v
 
 | Topic | Message type | Nominal rate | Description | `outdoor1` count | `outdoor2` count |
 |---|---|---:|---|---:|---:|
-| `/odom` | <code>nav_msgs/msg<br>/Odometry</code> | 50 Hz | Wheel odometry | 13,195 | 15,775 |
-| `/imu` | <code>sensor_msgs/msg<br>/Imu</code> | 200 Hz | WitMotion HWT905-TTL IMU measurement | 53,088 | 63,590 |
-| `/ouster/points` | <code>sensor_msgs/msg<br>/PointCloud2</code> | 10 Hz | Ouster OS0-128 LiDAR point cloud | 2,116 | 2,663 |
-| `/ouster/imu` | <code>sensor_msgs/msg<br>/Imu</code> | 100 Hz | Ouster internal IMU measurement | 26,476 | 31,762 |
-| `/ouster/metadata` | <code>std_msgs/msg<br>/String</code> | Once | Ouster sensor metadata | 1 | 1 |
-| <code>/zed/zed_node/rgb<br>/color/rect/image</code> | <code>sensor_msgs/msg<br>/Image</code> | 15 Hz | Rectified RGB image | 3,428 | 4,302 |
-| <code>/zed/zed_node/rgb/color<br>/rect/image/camera_info</code> | <code>sensor_msgs/msg<br>/CameraInfo</code> | 15 Hz | RGB camera calibration and projection data | 3,923 | 4,651 |
-| <code>/zed/zed_node/depth<br>/depth_registered</code> | <code>sensor_msgs/msg<br>/Image</code> | 15 Hz | Depth image registered to the RGB camera frame | 3,425 | 4,262 |
-| <code>/zed/zed_node/depth<br>/depth_registered/camera_info</code> | <code>sensor_msgs/msg<br>/CameraInfo</code> | 15 Hz | Registered depth camera information | 3,869 | 4,646 |
-| `/zed/zed_node/imu/data` | <code>sensor_msgs/msg<br>/Imu</code> | 100 Hz | ZED 2 internal IMU measurement | 26,296 | 31,464 |
-| `/zed/zed_node/odom` | <code>nav_msgs/msg<br>/Odometry</code> | 15 Hz | ZED odometry | 3,926 | 4,652 |
-| `/tf` | <code>tf2_msgs/msg<br>/TFMessage</code> | Variable | Dynamic coordinate-frame transforms | 13,438 | 25,000 |
-| `/tf_static` | <code>tf2_msgs/msg<br>/TFMessage</code> | Event-based | Static coordinate-frame transforms | 3 | 3 |
-| `/robot_description` | <code>std_msgs/msg<br>/String</code> | Once | Robot description | 1 | 1 |
+| `/odom` | <code>nav_msgs/msg</code><br><code>/Odometry</code> | 50 Hz | Wheel odometry | 13,195 | 15,775 |
+| `/imu` | <code>sensor_msgs/msg</code><br><code>/Imu</code> | 200 Hz | WitMotion HWT905-TTL IMU measurement | 53,088 | 63,590 |
+| `/ouster/points` | <code>sensor_msgs/msg</code><br><code>/PointCloud2</code> | 10 Hz | Ouster OS0-128 LiDAR point cloud | 2,116 | 2,663 |
+| `/ouster/imu` | <code>sensor_msgs/msg</code><br><code>/Imu</code> | 100 Hz | Ouster internal IMU measurement | 26,476 | 31,762 |
+| `/ouster/metadata` | <code>std_msgs/msg</code><br><code>/String</code> | Once | Ouster sensor metadata | 1 | 1 |
+| <code>/zed/zed_node/rgb</code><br><code>/color/rect/image</code> | <code>sensor_msgs/msg</code><br><code>/Image</code> | 15 Hz | Rectified RGB image | 3,428 | 4,302 |
+| <code>/zed/zed_node/rgb/color</code><br><code>/rect/image/camera_info</code> | <code>sensor_msgs/msg</code><br><code>/CameraInfo</code> | 15 Hz | RGB camera calibration and projection data | 3,923 | 4,651 |
+| <code>/zed/zed_node/depth</code><br><code>/depth_registered</code> | <code>sensor_msgs/msg</code><br><code>/Image</code> | 15 Hz | Depth image registered to the RGB camera frame | 3,425 | 4,262 |
+| <code>/zed/zed_node/depth</code><br><code>/depth_registered/camera_info</code> | <code>sensor_msgs/msg</code><br><code>/CameraInfo</code> | 15 Hz | Registered depth camera information | 3,869 | 4,646 |
+| `/zed/zed_node/imu/data` | <code>sensor_msgs/msg</code><br><code>/Imu</code> | 100 Hz | ZED 2 internal IMU measurement | 26,296 | 31,464 |
+| `/zed/zed_node/odom` | <code>nav_msgs/msg</code><br><code>/Odometry</code> | 15 Hz | ZED odometry | 3,926 | 4,652 |
+| `/tf` | <code>tf2_msgs/msg</code><br><code>/TFMessage</code> | Variable | Dynamic coordinate-frame transforms | 13,438 | 25,000 |
+| `/tf_static` | <code>tf2_msgs/msg</code><br><code>/TFMessage</code> | Event-based | Static coordinate-frame transforms | 3 | 3 |
+| `/robot_description` | <code>std_msgs/msg</code><br><code>/String</code> | Once | Robot description | 1 | 1 |
 
 ## Usage
 
