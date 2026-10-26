@@ -43,8 +43,8 @@ Sensor data were received and processed on an embedded PC. In addition to the ex
 | Download | [Download](https://www.dropbox.com/scl/fo/lco6h4czog9o71660zoib/ADdh9Dh_zdhfSwntkvaGJwU?rlkey=kkg6x9bfwsqy8h5scgp3ike0k&st=b7p4mq45&dl=0) | [Download](https://www.dropbox.com/scl/fo/ivkxngnwur0t39pk48cc1/AB3h58EHN3vERQvRFbqNsxY?rlkey=t9127ayq6m9sacqnrbnj3gfku&st=vhm1f6ky&dl=0) |
 | Bag directory | `scenario_1` | `scenario_2` |
 | MCAP file | `scenario_1.mcap` | `scenario_2.mcap` |
-| MCAP size | 61.8 GiB (66,332,734,881 bytes) | 75.1 GiB (80,629,269,131 bytes) |
-| Duration | 382.371 s (06:22.371) | 464.832 s (07:44.832) |
+| MCAP size | 61.8 GiB | 75.1 GiB |
+| Duration | 382.371 s | 464.832 s |
 | Total messages | 227,359 | 276,370 |
 | Recorded topics | 15 | 15 |
 
