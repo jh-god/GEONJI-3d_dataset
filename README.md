@@ -40,7 +40,7 @@ Sensor data were received and processed on an embedded PC. In addition to the ex
 | Item | Scenario 1 | Scenario 2 |
 |---|---|---|
 | Environment | Relatively wide and flat forest walking trail | Rougher forest paths with irregular terrain, fallen branches, dense vegetation, and sections revisited during the run |
-| Download | Link to be provided | Link to be provided |
+| Download | [Download](https://www.dropbox.com/scl/fo/lco6h4czog9o71660zoib/ADdh9Dh_zdhfSwntkvaGJwU?rlkey=kkg6x9bfwsqy8h5scgp3ike0k&st=b7p4mq45&dl=0) | [Download](https://www.dropbox.com/scl/fo/ivkxngnwur0t39pk48cc1/AB3h58EHN3vERQvRFbqNsxY?rlkey=t9127ayq6m9sacqnrbnj3gfku&st=vhm1f6ky&dl=0) |
 | Bag directory | `scenario_1` | `scenario_2` |
 | MCAP file | `scenario_1.mcap` | `scenario_2.mcap` |
 | MCAP size | 61.8 GiB (66,332,734,881 bytes) | 75.1 GiB (80,629,269,131 bytes) |
@@ -48,7 +48,7 @@ Sensor data were received and processed on an embedded PC. In addition to the ex
 | Total messages | 227,359 | 276,370 |
 | Recorded topics | 15 | 15 |
 
-Both scenarios contain dynamic obstacles such as pedestrians. Download links for the rebuilt recordings will be added here when available.
+Both scenarios contain dynamic obstacles such as pedestrians.
 
 File sizes refer to the MCAP files alone, with 1 GiB = 2³⁰ bytes. Durations and message counts were checked against both `metadata.yaml` and the MCAP summary records.
 
