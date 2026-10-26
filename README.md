@@ -158,16 +158,6 @@ For processing nodes that use ROS simulation time, publish `/clock` during repla
 ros2 bag play scenario_1 --clock
 ```
 
-## Representative uses
-
-Section 3.4 of the paper demonstrates:
-
-- LiDAR–inertial localization and mapping using FAST-LIO2.
-- Ground/non-ground segmentation using Patchwork++.
-- LiDAR-to-RGB projection using the calibrated extrinsics, including projection of ground/non-ground segmentation results.
-
-These examples demonstrate practical usability. The dataset provides raw sensor recordings; it does not include semantic annotations or quantitative task benchmarks.
-
 ## Citation
 
 If you use GEONJI-3D in your research, please cite:
